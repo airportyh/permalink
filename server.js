@@ -90,6 +90,6 @@ app
   .use(router.routes())
   .use(router.allowedMethods());
   
-var port = 3000;
+var port = process.env.PERMALINK_SERVER_PORT || 3000;
 app.listen(port);
 console.log(`Listening on ${port}`);
