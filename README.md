@@ -1,6 +1,6 @@
 # Permalink As A Service
 
-This is an implementation of the permalink-as-a-service idea described in my blog post. It is written in io.js with the help of the Koa framework.
+This is an implementation of the permalink-as-a-service idea described in my [blog post](http://tobyho.com/2015/05/28/permalink-as-a-service/). It is written in io.js with the help of the Koa framework.
 
 ## Running
 
